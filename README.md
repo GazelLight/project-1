@@ -1,2 +1,2 @@
-the projects in this repository, are projects I had while attending the course of practicum 100.
-They are ment to show the set of skills I have acquired in the course, and also, it might help others who are trying to be analysts.
+credit score
+The goal of this project is to support decision making for a banck, by analyzing a csv file that contains personal information of their clients. The banck wants to know what variables they need to consider while deciding if to lend a loan to a client or not. To help the banck, I need to find the correlation between the clients personal data and their ability to pay it back.
